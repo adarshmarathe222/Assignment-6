@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="Employee.xsl"?>
+<emp>
+<s>
+ <eno> 5001 </eno>
+ <name> 
+	<fname>Abhishek</fname>
+	<lname>Shinde</lname>
+	<mname>S</mname>
+ </name>
+ <fathername>Arjun Shinde</fathername>
+ <DOB> 18-01-2000 </DOB>
+ <city>Mumbai</city>
+ <state>Maharastra</state>
+ <qualification>B.TECH</qualification>
+</s>
+<s>
+ <eno>5002</eno>
+ <name> 
+	<fname>Adarsh</fname>
+	<lname>Marathe</lname>
+	<mname>Arun</mname>
+ </name>
+ <fathername>Arun Marathe</fathername>
+ <DOB>31-10-1998</DOB>
+ <city>Bangalore</city>
+ <state>Karnataka</state>
+ <qualification>MCA</qualification>
+</s>
+<s>
+ <eno>5003</eno>
+ <name> 
+	<fname>Suny</fname>
+	<lname> Sharma </lname>
+	<mname>Vishwakarma</mname>
+ </name>
+ <fathername> Vishwakarma Sharma </fathername>
+ <DOB> 18-03-2000 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification> BCA </qualification>
+</s>
+</emp>
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="2.css"?>
+<student xmlns="http://www.w3.org/TR/html4"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance/" xsi:noNamespaceSchemaLocation="2.xsd">
+<!-- 
+<student xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance/" xsi:schemaLocation="https://www.w3schools.com/xml 2.xsd"> 
+-->
+    <name>
+        <fname>Adarsh</fname>
+        <mname>Arun</mname>
+        <lname>Marathe</lname>
+    </name>
+    <address>
+        <hno>123</hno>
+        <street>Whitefield</street>
+        <city>Bangalore</city>
+        <state>Karnataka</state>
+    </address>
+    <mark>60</mark>
+    <hobby>CoDiNg</hobby>
+</student>
